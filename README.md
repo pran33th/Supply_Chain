@@ -1,5 +1,5 @@
 
-# Project 6B Supply Chain
+# Project Supply Chain
 
 ## Truffle Version
 >
