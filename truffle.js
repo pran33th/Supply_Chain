@@ -1,8 +1,8 @@
 const HDWalletProvider = require('truffle-hdwallet-provider')
 const Web3 = require('web3')
 web3 = new Web3.providers.WebsocketProvider('ws://localhost:8545')
-mnemonic = "dc4c35ab35355155a96f0c08ef1f338aba68e9bdab5b72ee14c82f5bf1c7e9b1"
-infuraKey = "014f44fc7bae424da6e5208787a5fcd1"
+mnemonic = "myPrivateKey"
+infuraKey = "MyInfuraId"
 
 module.exports = {
   networks: {
