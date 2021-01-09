@@ -15,23 +15,6 @@
 >
     Web3.js v1.2.9
 >
-## Contract Address
->
-    0x569224524D1e54210399C17d61eE99A810bF450f 
->
-
-## Transaction Id
->
-    0x1e95fc8b5210aa0cc179e3cb31d3f35335c6a51f3a7229e94527919c39b45001
->
-
-
-
-## Requirement 1: Project write-up - Libraries
-I used one library called Roles which made it easier to manage AccessControl in my DAPP. It made it easy to add and remove roles in each of my AccessControl contracts (FarmerRole.sol, DistributorRole.sol, RetailerRole.sol, and ConsumerRole.sol).
-
-## Requirement 2: Project write-up - IPFS
-I did not use IPFS to deliver my website for this project. However, I could have added my HTML, CSS, and JS files to IPFS in order to fully decentralize my Supply Chain DAPP.
 
 ## Getting Started
 
